@@ -1,0 +1,22 @@
+# Build artifacts / binaries
+/DesktopFireworksPlayer
+/OverlayFireworksPlayer
+
+# Video/media outputs
+*.mp4
+*.mkv
+*.webm
+*.m4a
+final.*
+YANHUA_final*
+yanhua_src.*.webm
+src.mp4*
+src_merged.mkv
+
+# Analysis and caches
+analysis.json
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
